@@ -31,4 +31,3 @@ interface HttpProxyProviderAdapterInterface
         $offset = 0
     );
 }
- 
